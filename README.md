@@ -67,6 +67,12 @@ This will open a new tab in your default web browser (usually at `http://localho
 
 ---
 
+## Deployed link
+
+https://crop-yield-predition-dashboard.streamlit.app/
+
+---
+
 ## 🗂️ Project Structure
 
 ```
